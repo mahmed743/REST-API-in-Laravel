@@ -11,3 +11,6 @@ Through Laravel Application Development, You can able to develop your web applic
 
 
 To Run code just run composer install
+
+References
+-<a href="https://laravel.com/docs/5.6/passport">Laravel Passport</a>
